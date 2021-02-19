@@ -1,4 +1,4 @@
-# qoq-helmet
+# qoq-jwt
 qoq middleware for validating JSON Web Tokens based on [koa-jwt](https://github.com/koajs/jwt).
 
 [![License](https://img.shields.io/github/license/qoq-ts/qoq-jwt)](https://github.com/qoq-ts/qoq-jwt/blob/master/LICENSE)
